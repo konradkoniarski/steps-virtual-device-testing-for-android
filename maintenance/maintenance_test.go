@@ -509,24 +509,24 @@ tags[0]:                preview=33
 tags[1]:                beta
 ---
 brand:                  google
-codename:               Pixel6
-form:                   VIRTUAL
+codename:               oriole
+form:                   PHYSICAL
 formFactor:             PHONE
-id:                     Pixel6
+id:                     oriole
 manufacturer:           Google
 name:                   Pixel 6
 screenDensity:          420
 screenX:                1080
 screenY:                2400
-supportedAbis[0]:       31:armeabi
+supportedAbis[0]:       31:arm64-v8a
 supportedAbis[1]:       31:armeabi-v7a
-supportedAbis[2]:       31:x86
-supportedAbis[3]:       32:armeabi
+supportedAbis[2]:       31:armeabi
+supportedAbis[3]:       32:arm64-v8a
 supportedAbis[4]:       32:armeabi-v7a
-supportedAbis[5]:       32:x86
-supportedAbis[6]:       33:armeabi
+supportedAbis[5]:       32:armeabi
+supportedAbis[6]:       33:arm64-v8a
 supportedAbis[7]:       33:armeabi-v7a
-supportedAbis[8]:       33:x86
+supportedAbis[8]:       33:armeabi
 supportedVersionIds[0]: 31
 supportedVersionIds[1]: 32
 supportedVersionIds[2]: 33`
